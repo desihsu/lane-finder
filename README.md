@@ -13,7 +13,7 @@ computer vision techniques.
 
 1. Clone this repo
 2. ```~$ conda env create -f environment.yml```  
-3. ```~$ source activate environment```
+3. ```~$ source activate lane_finder```
 
 ## Usage
 
